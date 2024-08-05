@@ -1,4 +1,4 @@
-# code source illustrant l'article de blog http://
+# code source illustrant l'article de blog https://linuxembedded.fr/2024/08/introduction-a-la-programmation-uefi-en-langage-rust
 
 - 01_hello_world
 - 02_console
